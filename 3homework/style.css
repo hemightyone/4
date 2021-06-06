@@ -1,0 +1,47 @@
+
+input{
+    background: #f5f6f7;
+    border-radius: 5px;
+    margin: 0;
+    border: 1px solid #ccd0d5;
+    padding: 11px;
+}
+#app{
+    background-color: #fff;
+    border-radius: 0 0 8px 8px;
+    border: 1px solid #dadde1;
+    box-sizing: border-box;
+    padding: 16px;
+    width: 432px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+ 
+}
+.Big{
+ 
+    display: flex;
+    flex-direction: column;
+ }
+button{    
+    background: #f5f6f7;
+    border-radius: 5px;
+    margin: 0;
+    border: 1px solid #ccd0d5;
+    padding: 11px; }
+
+hr{
+color: black;
+background-color: black;
+width: 400.5px;
+height: 1.5px;
+}
+
+.foot{
+    bottom: 0;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 11px;
+}
